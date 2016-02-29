@@ -1,10 +1,10 @@
 
-### SVG версия герба Российской Федерации ###
+### SVG версия герба Российской Федерации для экранов ###
 #### c большим количеством деталей: ####
 
 ![Big](https://cdn.rawgit.com/govdesign/symbols/master/heraldry/heraldry_big.svg)
 
-#### с меньшим количеством деталей, упрощенная:####
+#### с меньшим количеством деталей, для маленьких размеров:####
 
 ![Small](https://cdn.rawgit.com/govdesign/symbols/master/heraldry/heraldry_small.svg)
 
