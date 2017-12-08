@@ -4,7 +4,7 @@
 
 ![Big](https://cdn.rawgit.com/govdesign/symbols/master/heraldry/heraldry_big.svg)
 
-#### с меньшим количеством деталей, для маленьких размеров:####
+#### с меньшим количеством деталей, для маленьких размеров: ####
 
 ![Small](https://cdn.rawgit.com/govdesign/symbols/master/heraldry/heraldry_small.svg)
 
